@@ -1,12 +1,15 @@
 <p align="center">
   <i>
+    $Manimae: \; Manim \; (Apisit's \; Edition)$<br>
     Further developed from the original Manimce.
   </i>
 </p>
 <hr/>
 
 > [!NOTE]
-> This README.md is presenting on English, if you want to read presenting of Thai version go to [README-TH.md](#)
-> README.md นี้สำเสนอในภาษาอังกฤษ หากต้องการอ่านการนำเสนอเวอร์ชันภาษาไทยให้ไปตาม [README-TH.md](#)
+> This README.md is presented in English. To read the Thai version of presentation, go to [README-TH.md](https://github.com/ApisitPhysics/Apisit-Engine/blob/main/README-TH.md)<br>
+> README.md นี้ถูกนำเสนอในเวอร์ชันภาษาอังกฤษ หากต้องการอ่านการนำเสนอในเวอร์ชันภาษาไทยให้ไปที่ [README-TH.md](https://github.com/ApisitPhysics/Apisit-Engine/blob/main/README-TH.md)
 
-Manimae is standing for "Manim Apisit's Edition". Further developed from the original Manimce, as can see on his Facebook profile [Apisit Sengsoon](https://www.facebook.com/share/1A1N9ye7y8)
+# $Manimae: \\; Manim \\; (Apisit's \\;Edition)$
+
+Manimae stands for Manim (Apisit's Edition). It is developed to add further functionalities, building upon the existing features of [ManimCE](https://www.manim.community/). Additionally, some of Apisit’s work will be included in this library. You can follow Apisit’s work on his Facebook page: [Apisit Sengsoon.](https://www.facebook.com/share/1A1N9ye7y8)
