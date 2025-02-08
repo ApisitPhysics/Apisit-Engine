@@ -21,9 +21,13 @@
 ## การติดตั้ง
 
 > [!CAUTION]
-> บนอุปกรณ์ของคุณจะต้องติดตั้ง `ManimCe` `Python` และ `Git` ก่อน สามารถอ่านเอกสารวิธีการติดตั้ง `ManimCe` ได้จาก https://www.manim.community/ `Python` ได้จาก https://www.python.org และ `Git` ได้จาก https://git-scm.com/
+> บนอุปกรณ์ของคุณต้องติดตั้งเครื่องมือเหล่านี้ก่อน:<br>
+> `Python` จาก https://www.python.org <br>
+> `FFmpeg` จาก https://ffmpeg.org <br>
+> `Manim` จาก https://www.manim.community <br>
+> `Git` จาก https://git-scm.com
 
-หลังจากติดตั้ง `ManimCe` `Python` และ `Git` บนอุปกรณ์ของคุณแล้ว ให้เปิด `cmd (command promt)` แล้วคัดลอกคำสั่งเล่านี้เพื่อติดตั้ง `ManimAe`
+หลังจากติดตั้ง `Python` `FFmpeg` `ManimCe` และ `Git` บนอุปกรณ์ของคุณแล้ว ให้เปิด `cmd (command promt)` แล้วคัดลอกคำสั่งเล่านี้เพื่อติดตั้ง `ManimAe`
 
 ```plain tex
 git clone https://github.com/ApisitPhysics/Apisit-Engine.git
