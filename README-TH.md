@@ -145,8 +145,7 @@ manim Basic.py Example -p
 
 สามารถติดต่อ อภิสิทธิ์ เส็งสูญ ได้ที่
 - เฟสบุ๊คของอภิสิทธิ์ [อภิสิทธิ์ เส็งสูญ](https://www.facebook.com/share/1A1N9ye7y8)
-- อีเมลของอภิสิทธิ์ [ApisitPhysics@outlook.co.th](apisitphysics@outlook.co.th)
-
+- อีเมลของอภิสิทธิ์ [ApisitPhysics@outlook.co.th](mailto:apisitphysics@outlook.co.th)
 ## ลิขสิทธิ์
 
 ซอฟต์แวร์นี้อยู่ภายใต้ลิขสิทธิ์ MIT License โดย อภิสิทธิ์ เส็งสูญ [LICENSE](https://github.com/ApisitPhysics/Apisit-Engine/blob/main/LICENSE) และลิขสิทธิ์ต้นฉบับ 2 ฉบับ ได้แก่ 3Blue1Brown LLC [LICENSE.3b1b](https://github.com/ApisitPhysics/Apisit-Engine/blob/main/LICENSE.3b1b) และ Manim Community Developers [LICENSE.community](https://github.com/ApisitPhysics/Apisit-Engine/blob/main/LICENSE.community)
