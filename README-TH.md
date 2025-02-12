@@ -75,7 +75,7 @@ ManimAe เป็นไลบรารีหนึ่งบนโปรแกร
 > `ManimCe` จาก https://www.manim.community <br>
 > `Git` จาก https://git-scm.com
 
-หลังจากติดตั้งอุปกรณ์เหล่านี้แล้ว สำหรับระบบปฏิบัติการ `Windows` ให้กด `WIN+R` พิมพ์ `cmd` กด `ok` หรือ กด `WIN+S` พิมพ์ `cmd` เลือก `Command Promt` หรือวิธีการอื่นใดๆ ที่สามารถเปิด `Command Promt` ได้
+หลังจากติดตั้งอุปกรณ์เหล่านี้แล้ว สำหรับระบบปฏิบัติการ `Windows` ให้กด `WIN+R` พิมพ์ `cmd` กด `OK` หรือ กด `WIN+S` พิมพ์ `cmd` เลือก `Command Promt` หรือวิธีการอื่นใดๆ ที่สามารถเปิด `Command Promt` ได้
 
 หลังจากเปิด `Command Promt` แล้ว ให้คัดลอกคำสั่งด้านล่าง นำไปใส่ใน `Command Promt` กด `Enter` เพื่อติดตั้ง ManimAe
 
@@ -136,6 +136,7 @@ manim file.py class -p
 manim Basic.py Example -p
 ```
 
+> [!TIP]
 > หากมีกระบวนการใด `error` แล้ว มีข้อแนะนำให้ตรวจสอบการติดตั้ง `FFmepg`, `MiKTeX` และ `ManimCe` ว่าเป็นไปอย่างเรียบร้อยหรือไม่ แล้วลองติดตั้ง ManimAe อีกครั้ง
 
 ## ช่องทางติดต่อ
