@@ -71,7 +71,8 @@ ManimAe เป็นไลบรารีหนึ่งบนโปรแกร
 > บนอุปกรณ์ของคุณต้องติดตั้งอุปกรณ์เหล่านี้ก่อน:<br>
 > `Python` จาก https://www.python.org <br>
 > `FFmpeg` จาก https://ffmpeg.org <br>
-> `Manim` จาก https://www.manim.community <br>
+> `MiKTeX` จาก https:miktex.org <br>
+> `ManimCe` จาก https://www.manim.community <br>
 > `Git` จาก https://git-scm.com
 
 หลังจากติดตั้งอุปกรณ์เหล่านี้แล้ว สำหรับระบบปฏิบัติการ `Windows` ให้กด `WIN+R` พิมพ์ `cmd` กด `ok` หรือ กด `WIN+S` พิมพ์ `cmd` เลือก `Command Promt` หรือวิธีการอื่นใดๆ ที่สามารถเปิด `Command Promt` ได้
@@ -95,7 +96,7 @@ pip show manimae
 เท่านี้อุปกรณ์ของคุณก็ได้รับการติดตั้ง ManimAe เป็นที่เรียบร้อยแล้ว
 
 > [!TIP]
-> หากมีกระบวนการใด `error` แล้ว มีข้อแนะนำให้ตรวจสอบการติดตั้ง 4 อุปกรณ์ด้านบนว่าเป็นไปอย่างเรียบร้อยหรือไม่ แล้วลองติดตั้ง ManimAe อีกครั้ง
+> หากมีกระบวนการใด `error` แล้ว มีข้อแนะนำให้ตรวจสอบการติดตั้ง `Python` และ `Git` ว่าเป็นไปอย่างเรียบร้อยหรือไม่ แล้วลองติดตั้ง ManimAe อีกครั้ง
 
 ## การใช้งาน
 
@@ -134,6 +135,8 @@ manim file.py class -p
 ```plain tex
 manim Basic.py Example -p
 ```
+
+> หากมีกระบวนการใด `error` แล้ว มีข้อแนะนำให้ตรวจสอบการติดตั้ง `FFmepg`, `MiKTeX` และ `ManimCe` ว่าเป็นไปอย่างเรียบร้อยหรือไม่ แล้วลองติดตั้ง ManimAe อีกครั้ง
 
 ## ช่องทางติดต่อ
 
