@@ -6,5 +6,8 @@ setup(
     description="Further developed from the original ManimCe.",
     author="Apisit Sengsoon",
     author_email="apisitphysics@outlook.co.th",
-    packages=find_packages()
+    packages=find_packages(),
+    license="MIT License",
+    requires=["manim", "math", "numpy"],
+    url="https://github.com/ApisitPhysics/Apisit-Engine"
 )
