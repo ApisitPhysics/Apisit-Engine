@@ -8,3 +8,5 @@ from manim import *
 
 from math import *
 import numpy as np
+
+from .multi_text import *
